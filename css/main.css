@@ -261,8 +261,8 @@ h2 {
   background-repeat:no-repeat;
   position: relative;
   overflow: hidden;
-  padding: 119px 0 100px;
-  height: 1550px;
+  padding: 50px 0 50px;
+  height: auto;
 }
 
 .watch {
@@ -397,7 +397,7 @@ h2 {
   background-size: contain;
   position: relative;
   background-repeat: no-repeat;
-  height: 850px;
+  height: auto;
 }
 
 .guitar {
